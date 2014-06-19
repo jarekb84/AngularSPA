@@ -1,0 +1,4 @@
+AngularSPA
+==========
+
+AngualrJS SPA template
