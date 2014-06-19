@@ -1,0 +1,23 @@
+{
+  "name": "AngularSPA",
+  "version": "0.0.0",
+  "homepage": "https://github.com/jarekb84/AngularSPA",
+  "authors": [
+    "jarekb84 <jarekb@gmail.com>"
+  ],
+  "description": "AngualrJS SPA template",
+  "main": "app/index.html",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "angular": "~1.2.18",
+    "angular-cookies": "~1.2.18",
+    "angular-ui-router": "~0.2.10",
+    "angular-resource": "~1.2.18",
+    "angular-sanitize": "~1.2.18",
+    "bootstrap-sass-official": "~3.1.1",
+    "closure-library": "https://closure-library.googlecode.com/files/closure-library-20130212-95c19e7f0f5f.zip",
+    "angular-bootstrap": "~0.11.0",
+    "font-awesome": "~4.1.0"
+  }
+}
